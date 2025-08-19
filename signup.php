@@ -3,7 +3,7 @@
 <html>
 <head>
     <title>Signup - Hilton Booking</title>
-    <link rel="stylesheet" href="/style.css">
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 <h2>Create Account</h2>
