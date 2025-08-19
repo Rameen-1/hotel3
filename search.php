@@ -3,7 +3,7 @@
 <html>
 <head>
     <title>Search Results</title>
-    <link rel="stylesheet" href="/style.css">
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 <h2>Available Hotels in <?php echo htmlspecialchars($_GET['location']); ?></h2>
