@@ -1,0 +1,72 @@
+body {
+    font-family: 'Helvetica Neue', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f9f9f9;
+}
+ 
+header {
+    background: #0a2f5c;
+    color: white;
+    padding: 1.5rem;
+    text-align: center;
+    font-size: 1.8rem;
+}
+ 
+.search-section {
+    padding: 2rem;
+    background: #e9ecef;
+    text-align: center;
+}
+ 
+input, button {
+    padding: 0.7rem;
+    margin: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 1rem;
+}
+ 
+button {
+    background-color: #0056b3;
+    color: white;
+    cursor: pointer;
+}
+ 
+.hotel-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 2rem;
+}
+ 
+.hotel-card {
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    margin: 1rem;
+    padding: 1rem;
+    width: 300px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    text-align: center;
+}
+ 
+.hotel-card img {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 8px;
+}
+ 
+.hotel-details {
+    max-width: 700px;
+    margin: auto;
+    padding: 2rem;
+}
+ 
+.hotel-details img {
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 1rem;
+}
+ 
