@@ -1,0 +1,5 @@
+[29-Jul-2025 10:50:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/customer/www/rsoa151.planetearth.school/public_html/hotel3/login.php:2) in /home/customer/www/rsoa151.planetearth.school/public_html/hotel3/login.php on line 27
+[29-Jul-2025 10:59:34 UTC] PHP Warning:  Undefined array key "location" in /home/customer/www/rsoa151.planetearth.school/public_html/hotel3/search.php on line 9
+[29-Jul-2025 10:59:34 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/rsoa151.planetearth.school/public_html/hotel3/search.php on line 9
+[29-Jul-2025 10:59:34 UTC] PHP Warning:  Undefined array key "location" in /home/customer/www/rsoa151.planetearth.school/public_html/hotel3/search.php on line 12
+ 
